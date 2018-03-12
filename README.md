@@ -5,7 +5,7 @@ This is a sample project which using firebase storage, firebase database, Fireba
 Gradele version:3.0.1
 Google services:3.1.0
 Min SDK Version: 16
-Target SDK version: 27
+Target SDK version: 27**
 
 ## Following are the components used in this project.
 
