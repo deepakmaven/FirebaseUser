@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Firebase User</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_sign_up">Sign up</string>
+    <string name="title_activity_verification">Mobile Verification</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_user_list">Firebase Users</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="error_password_mismatch">password mismatch!</string>
+    <string name="no_internet_connection">Please check your internet connection!</string>
+    <string name="prompt_name">Full Name</string>
+    <string name="prompt_mobile">Mobile Number</string>
+    <string name="action_update">Update</string>
+    <string name="prompt_click_for_address">Click to add Address</string>
+    <string name="prompt_date">Date of Birth</string>
+    <string name="error_no_play_services">Please install google play services or update if installed!</string>
+    <string name="google_api_connection_failed">Google Api connection failed ! </string>
+    <string name="google_api_connection_suspended">Google Api connection suspended !</string>
+    <string name="new_user_sign_up">New User? Sign up.</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_in_getting_image">Error in getting image!</string>
+    <string name="select_image">Select Image</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="profile_update_success">Profile updated successfully!</string>
+    <string name="profile_update_fail">Failed to update profile!</string>
+    <string name="image_capture_failed">Image capture failed</string>
+    <string name="permission_rationale_media_access">App want to access your media files !</string>
+    <string name="image_upload_success">Image upload successful..</string>
+</resources>
